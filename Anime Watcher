@@ -11,13 +11,13 @@
   },
   {
     "pckg_id": "com.tvgarden.android",
-    "base_domain": "tv.garden",
-    "home_url": "https://tv.garden/",
+    "base_domain": "tvgarden.world",
+    "home_url": "https://tvgarden.world/",
     "mega_domains": [
       "mega.nz",
       "mega.io"
     ],
-    "name": "TV Garden Not Working"
+    "name": "TV Garden"
   },
   {
     "pckg_id": "com.animahd.android",
@@ -30,14 +30,14 @@
     "name": "Anime HD"
   },
   {
-    "pckg_id": "com.gogoanime.android",
-    "base_domain": "gogoanimes.fi",
-    "home_url": "https://ww19.gogoanimes.fi/",
+    "pckg_id": "com.reanime.android",
+    "base_domain": "reanime.to",
+    "home_url": "https://reanime.to/home",
     "mega_domains": [
       "mega.nz",
       "mega.io"
     ],
-    "name": "Gogo Anime"
+    "name": "Re Anime"
   },
   {
     "pckg_id": "com.animefrenzy.android",
@@ -61,8 +61,8 @@
   },
   {
     "pckg_id": "com.animesuge.android",
-    "base_domain": "animesuge.bz",
-    "home_url": "https://animesuge.bz/",
+    "base_domain": "animesuge.tv",
+    "home_url": "https://anisuge.tv/home",
     "mega_domains": [
       "pahe.bunniescdn.online"
     ],
@@ -70,8 +70,8 @@
   },
   {
     "pckg_id": "tv.miruro.android",
-    "base_domain": "miruro.online",
-    "home_url": "https://www.miruro.online",
+    "base_domain": "miruro.ru",
+    "home_url": "https://www.miruro.ru/",
     "mega_domains": [
       "pahe.win"
     ],
@@ -79,8 +79,8 @@
   },
   {
     "pckg_id": "org.anime9.android",
-    "base_domain": "9anime.org.lv",
-    "home_url": "https://9anime.org.lv/",
+    "base_domain": "9anime.org.home",
+    "home_url": "https://9animez.org/home",
     "mega_domains": [
       "pahe.bunniescdn.online"
     ],
@@ -106,8 +106,8 @@
   },
   {
     "pckg_id": "com.animesalt.android",
-    "base_domain": "animesalt.cc",
-    "home_url": "https://animesalt.cc/",
+    "base_domain": "animesalt.link",
+    "home_url": "https://animesalt.link/",
     "mega_domains": [
       "mega.nz"
     ],
@@ -125,18 +125,28 @@
   },
   {
     "pckg_id": "com.kissanime.android",
-    "base_domain": "kissanime.cfd",
-    "home_url": "https://kissanime.cfd/",
+    "base_domain": "mkissa.to",
+    "home_url": "https://mkissa.to/anime",
     "mega_domains": [
       "mega.nz",
       "mega.io"
     ],
-    "name": "Kiss Anime"
+    "name": "MKissa"
+  },
+    {
+    "pckg_id": "www.anidb.app",
+    "base_domain": "anidb.app",
+    "home_url": "https://anidb.app/home",
+    "mega_domains": [
+      "mega.nz",
+      "mega.io"
+    ],
+    "name": "AniDB"
   },
   {
     "pckg_id": "com.zorotoanime.android",
-    "base_domain": "zoroto.com.in",
-    "home_url": "https://zoroto.com.in/",
+    "base_domain": "zoroto.cz",
+    "home_url": "https://zorotv.cz/home",
     "mega_domains": [
       "mega.nz",
       "mega.io"
@@ -146,7 +156,7 @@
   {
     "pckg_id": "com.animeworldli.android",
     "base_domain": "animeworld.li",
-    "home_url": "https://animeworld.li/",
+    "home_url": "https://watchanimeworld.top/",
     "mega_domains": [
       "mega.nz",
       "mega.io"
@@ -154,33 +164,73 @@
     "name": "Anime World"
   },
   {
-    "pckg_id": "com.aniworld.android",
-    "base_domain": "aniworld.to",
-    "home_url": "https://aniworld.to/",
+    "pckg_id": "anikototv.to/home",
+    "base_domain": "anikototv.to",
+    "home_url": "https://anikototv.to/home",
     "mega_domains": [
       "mega.nz",
       "mega.io"
     ],
-    "name": "Ani World"
+    "name": "Anikototv"
   },
   {
     "pckg_id": "com.animeheaven.android",
-    "base_domain": "animeheaven.me",
-    "home_url": "https://animeheaven.me/",
+    "base_domain": "AniWaves",
+    "home_url": "https://aniwaves.ru/home",
     "mega_domains": [
       "mega.nz",
       "mega.io"
     ],
-    "name": "Anime Heaven Use VpN"
+    "name": "AniWaves"
   },
   {
-    "pckg_id": "com.animesheaven.android",
-    "base_domain": "animesheaven.me",
-    "home_url": "https://www.animesheaven.me/",
+    "pckg_id": "www.anitaku.online",
+    "base_domain": "anitaku.online",
+    "home_url": "https://anitaku.online/",
     "mega_domains": [
       "mega.nz",
       "mega.io"
     ],
-    "name": "Animes Heaven"
+    "name": "Gogo Animes"
+  },
+  {
+    "pckg_id": "www.anivibe.live",
+    "base_domain": "anivibe.live",
+    "home_url": "https://anivibe.live/",
+    "mega_domains": [
+      "mega.nz",
+      "mega.io"
+    ],
+    "name": "AniVibe"
+  },
+  {
+    "pckg_id": "www.animex.one",
+    "base_domain": "animex",
+    "home_url": "https://animex.one/home",
+    "mega_domains": [
+      "mega.nz",
+      "mega.io"
+    ],
+    "name": "Animex"
+  },
+  {
+    "pckg_id": "com.animesogo.to",
+    "base_domain": "Animesogo.to",
+    "home_url": "https://animesogo.to/home",
+    "mega_domains": [
+      "mega.nz",
+      "mega.io"
+    ],
+    "name": "Animesogo"
+  },
+  {
+    "pckg_id": "www.yomi.to",
+    "base_domain": "yomi.to",
+    "home_url": "https://yomi.to/",
+    "mega_domains": [
+      "mega.nz",
+      "mega.io"
+    ],
+    "name": "Yomi Anime"
   }
 ]
