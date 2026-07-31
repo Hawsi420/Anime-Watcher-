@@ -7,7 +7,7 @@
       "mega.nz",
       "mega.io"
     ],
-    "name": "Anime Hindi World"
+    "name": "Anime Hindi World Best 💯"
   },
   {
     "pckg_id": "com.tvgarden.android",
@@ -17,7 +17,7 @@
       "mega.nz",
       "mega.io"
     ],
-    "name": "TV Garden"
+    "name": "TV Garden Live Tv Channels"
   },
   {
     "pckg_id": "com.animahd.android",
@@ -40,26 +40,6 @@
     "name": "Re Anime"
   },
   {
-    "pckg_id": "com.animefrenzy.android",
-    "base_domain": "animefrenzy.cc",
-    "home_url": "https://animefrenzy.cc/home",
-    "mega_domains": [
-      "mega.nz",
-      "mega.io"
-    ],
-    "name": "Anime Frenzy"
-  },
-  {
-    "pckg_id": "com.animeworld.android",
-    "base_domain": "watchanimeworld.in",
-    "home_url": "https://watchanimeworld.in",
-    "mega_domains": [
-      "mega.nz",
-      "mega.io"
-    ],
-    "name": "Watch Anime World"
-  },
-  {
     "pckg_id": "com.animesuge.android",
     "base_domain": "animesuge.tv",
     "home_url": "https://anisuge.tv/home",
@@ -78,50 +58,13 @@
     "name": "Miruro"
   },
   {
-    "pckg_id": "org.anime9.android",
-    "base_domain": "9anime.org.home",
-    "home_url": "https://9animez.org/home",
-    "mega_domains": [
-      "pahe.bunniescdn.online"
-    ],
-    "name": "9Anime"
-  },
-  {
-    "pckg_id": "com.animedao.android",
-    "base_domain": "animedao9.top",
-    "home_url": "https://animedao9.top/",
-    "mega_domains": [
-      "pahe.bunniescdn.online"
-    ],
-    "name": "Anime Dao"
-  },
-  {
-    "pckg_id": "com.animedub.android",
-    "base_domain": "animedub.co",
-    "home_url": "https://animedub.co/home",
-    "mega_domains": [
-      "dlx.techinmind.space"
-    ],
-    "name": "Anime Dub"
-  },
-  {
     "pckg_id": "com.animesalt.android",
     "base_domain": "animesalt.link",
     "home_url": "https://animesalt.link/",
     "mega_domains": [
       "mega.nz"
     ],
-    "name": "Anime Salt"
-  },
-  {
-    "pckg_id": "com.animeultima.android",
-    "base_domain": "animeultima.ch",
-    "home_url": "https://animeultima.ch/",
-    "mega_domains": [
-      "mega.nz",
-      "mega.io"
-    ],
-    "name": "Anime Ultima"
+    "name": "Anime Salt Best 💯"
   },
   {
     "pckg_id": "com.kissanime.android",
@@ -161,7 +104,7 @@
       "mega.nz",
       "mega.io"
     ],
-    "name": "Anime World"
+    "name": "Anime World Best 💯"
   },
   {
     "pckg_id": "anikototv.to/home",
